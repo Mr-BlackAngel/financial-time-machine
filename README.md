@@ -63,7 +63,7 @@ python terminal_app.py
 ---
 
 ## 🎥 Video Presentation Link
-📹 Attached along with submission form under “Video Presentation” section
+📹 [Watch Demo Video](<https://drive.google.com/file/d/1Ikpye-DFTaXzS75PrhKWlUsHtXdQLg1r/view?usp=drive_link>)
 
 ---
 
